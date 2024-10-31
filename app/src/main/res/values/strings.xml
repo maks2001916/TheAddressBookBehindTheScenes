@@ -6,4 +6,7 @@
     <string name="telephone">Телефон:</string>
     <string name="save">Сохранить</string>
     <string name="go_home">Вернуться на главный экран</string>
+    <string name="exit">Выход</string>
+    <string name="title">Книга адресов за кадром</string>
+    <string name="fill_in_all_the_fields">заполните все поля</string>
 </resources>
