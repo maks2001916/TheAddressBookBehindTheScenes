@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">The address book behind the scenes</string>
+    <string name="name">Имя:</string>
+    <string name="surname">Фамилия:</string>
+    <string name="address">Адрес:</string>
+    <string name="telephone">Телефон:</string>
+    <string name="save">Сохранить</string>
+    <string name="go_home">Вернуться на главный экран</string>
+</resources>
